@@ -3,9 +3,7 @@
 
 /**
  * main- Entry point
- *
  * @void: parameter
- *
  * Return: 1 (success)
  */
 
