@@ -1,9 +1,1 @@
-readme file
-
-
-
-
-
-
-ls
-
+varaiables
